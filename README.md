@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abeernoor05" alt="abeernoor05" /></a> </p>
 
-- 🔭 I’m currently working on **QSim – a cross-framework quantum simulator platform (Huawei Regional ICT Winner)**
+- 🔭 I'm currently working on **QSim – a cross-framework quantum simulator platform (Huawei Regional ICT Winner)**
 
 - 📫 How to reach me **abeernoor200@gmail.com**
 
@@ -14,12 +14,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table align="center">
+<table>
   <tr>
     <td align="center"><b>Languages</b></td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -30,12 +30,12 @@
 
 <br>
 
-<table align="center">
+<table>
   <tr>
     <td align="center"><b>Mobile & UI</b></td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
@@ -45,12 +45,12 @@
 
 <br>
 
-<table align="center">
+<table>
   <tr>
     <td align="center"><b>Backend & Databases</b></td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
@@ -62,12 +62,12 @@
 
 <br>
 
-<table align="center">
+<table>
   <tr>
     <td align="center"><b>DevOps & Cloud</b></td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
@@ -79,12 +79,12 @@
 
 <br>
 
-<table align="center">
+<table>
   <tr>
     <td align="center"><b>Tools & Others</b></td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
