@@ -14,51 +14,84 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
-  <!-- Languages -->
-  <b>Languages</b><br><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <!-- Mobile & Frontend -->
-  <b>Mobile & UI</b><br><br>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</p>
+<br>
 
-<p align="center">
-  <!-- Backend & Databases -->
-  <b>Backend & Databases</b><br><br>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Mobile & UI</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <!-- DevOps & Cloud -->
-  <b>DevOps & Cloud</b><br><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-</p>
+<br>
 
-<p align="center">
-  <!-- Tools -->
-  <b>Tools & Others</b><br><br>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" height="40"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Backend & Databases</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>DevOps & Cloud</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Tools & Others</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/>
+    </td>
+  </tr>
+</table>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abeernoor05&show_icons=true&locale=en" alt="abeernoor05" /></p>
