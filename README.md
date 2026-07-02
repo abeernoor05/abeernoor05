@@ -1,6 +1,6 @@
 ### Abeer Noor
 
-CS Undergrad · Fast NUCES · Islamabad
+CS Graduate · Fast NUCES · Islamabad
 
 [abeernoor200@gmail.com](mailto:abeernoor200@gmail.com) · [LinkedIn](https://linkedin.com/in/abeernoor) · [GitHub](https://github.com/abeernoor05)
 
